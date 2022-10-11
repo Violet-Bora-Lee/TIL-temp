@@ -126,3 +126,6 @@ git merge 브랜치명
 ## git merge 방식
 1. 3-way
 2. fast-forward
+
+## git push시 내부에서 일어나는일
+- (현재 main 브랜치를 체크아웃하고 있다는 가정하에) git push origin main을 입력하면, 로컬저장소에 있는 main브랜치에 있는 모든 커밋이 원격저장소(origin)에 있는 main 브랜치로 병합이되는데, 이때 방식은 fast-forward임
