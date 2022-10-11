@@ -101,6 +101,7 @@ git switch 브랜치명
 4. 브랜치 생성과 체크아웃 동시에 하기
 ```
 git checkout -b 브랜치명
+
 ```
 
 
@@ -118,3 +119,6 @@ git merge 브랜치명
 - 키 방식(공개키/개인키)
 - 토큰 방식(personal access token)
 
+## 지금까지 배운 명령어 개념과 함께 복습
+  - git commit, git branch, git checkout, git checkout -b, git merge, git pull
+  - 참고 사이트: https://violet-bora-lee.github.io/git-tutorial/
