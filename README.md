@@ -122,3 +122,7 @@ git merge 브랜치명
 ## 지금까지 배운 명령어 개념과 함께 복습
   - git commit, git branch, git checkout, git checkout -b, git merge, git pull
   - 참고 사이트: https://violet-bora-lee.github.io/git-tutorial/
+
+## git merge 방식
+1. 3-way
+2. fast-forward
